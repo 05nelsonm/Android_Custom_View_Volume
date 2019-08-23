@@ -1,7 +1,8 @@
-package com.lambdaschool.customviewvolume
+package com.lambdaschool.customviewvolume.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.lambdaschool.customviewvolume.R
 
 class MainActivity : AppCompatActivity() {
 
